@@ -13,13 +13,27 @@ Second Year Software Group Project in TUD CSE Bachelor Degree, where we develop 
 - Chart.js
 - Karma & jasmine
 
-## Features I have developed
+## My Role
+### Implementation
 - Map and Hexagon visualization
 - Infotainment panel and its children structure
 - Hexagon and Region infotainment components
 - Search by Region
 - Back and Forward buttons for infotainment panels
+- Homepage Component
+- Pipeline
+- Documentation
 - Testing
+### Report
+- Requirment Elicitation section
+- Appendix 1: MoSCoW
+- Table of Contents
+- Introduction
+## Project
+- Communication with university and client
+- Creating gitlab issues, with labels and weights
+- Assigning issues to team members
+- Planning work distribution and schedule
 
 ## Project Plan
 Report detailing the process of developing the project.
