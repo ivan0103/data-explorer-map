@@ -3,9 +3,29 @@
 ## Description
 
 Data Explorer Map is Web Tool for visual representation of data that was submitted by vehicles driving on the road across the globe.
+Second Year Software Group Project in TUD CSE Bachelor Degree, where we develop a product for a real company as an internship, provided by the university.
+
+## Technologies
+- Angular: TypeScript, HTML & CSS
+- Google Maps API: deactivated
+- Uber H3-JS
+- OpenWeatherAPI
+- Chart.js
+- Karma & jasmine
+
+## Features I have developed
+- Map and Hexagon visualization
+- Infotainment panel and its children structure
+- Hexagon and Region infotainment components
+- Search by Region
+- Back and Forward buttons for infotainment panels
+- Testing
+
+## Project Plan
+Report detailing the process of developing the project.
 
 ## Installation
--  Make sure you have Node.js and npm (Node Package Manager) installed on your system. You can download them from the official Node.js website: https://nodejs.org 
+- Make sure you have Node.js and npm (Node Package Manager) installed on your system. You can download them from the official Node.js website: https://nodejs.org 
 - Open a command-line interface and navigate to the directory where you have the project downloaded.
 - Install Angular CLI: 
 ```
@@ -35,11 +55,6 @@ ng test
 ```
 npx eslint --ext .ts . --fix
 ```
-
-## Dependencies
-- Google Maps API: used to visualize map and for Geocoder
-- H3-js: used to create and visualize hexagons over the map.
-- Chart.js: JS library used to create interactive charts
 
 ## Usage
 - Each displayed Hexagon represents a reported hazard or a point of interest inside the region the hexagon is on.
