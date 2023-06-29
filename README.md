@@ -29,7 +29,7 @@ Second Year Software Group Project in TUD CSE Bachelor Degree, where we develop 
 - Appendix 1: MoSCoW
 - Table of Contents
 - Introduction
-## Project
+### Project
 - Communication with university and client
 - Creating gitlab issues, with labels and weights
 - Assigning issues to team members
